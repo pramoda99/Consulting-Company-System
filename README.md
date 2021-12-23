@@ -1,5 +1,5 @@
 # Consulting-Company-System
-Web Application |  2nd year 2nd semester Project | SLIIT
+Web Application for a Client |  2nd year 2nd semester Project | SLIIT
 
 <h1 align="center">__RAVANA Engineering Consultants Pvt. Limited__</h1>
 
